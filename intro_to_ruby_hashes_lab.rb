@@ -31,19 +31,19 @@ def monopoly_with_fourth_tier
      {
        reading_railroad: 
        {
-         morgage_value: 100
+         "morgage_value": "100"
        },
        pennsylvania_railroad: 
        {
-         morgage_value:200
+         "morgage_value":"200"
        },
        b_and_o_railroad: 
        {
-         morgage_value:400
+         "morgage_value":"400"
        },
        shortline_railroad:
        {
-         morgage_value:800
+         "morgage_value":"800"
        }
      }
    }
