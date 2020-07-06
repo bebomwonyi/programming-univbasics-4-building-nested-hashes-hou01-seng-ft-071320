@@ -8,7 +8,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
- {railroads:{
+ monopoly = {railroads:{
    pieces: 4 ,
    rent_in_dollars: {
      one_piece_owned: 25, two_piece_owned: 50, three_piece_owned: 100,  four_piece_owned: 200},
@@ -20,7 +20,7 @@ def monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
- {
+ mo{
    railroads:
    {
      pieces: 4 ,rent_in_dollars: 
